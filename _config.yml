@@ -1,20 +1,19 @@
 # Site settings
 title: 
-description: A blog about lorem ipsum dolor sit amet
+description: A blog.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Krishna Kalyan
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Krishna
+user_description: Yogi by the day Enginner by night 
 user_title: Machine Learning Engineer
 email: krishnakalyan3@gmail.com
 twitter_username: krishnakalyan3
 github_username:  krishnakalyan3
-gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-28463515-7"
 
 exclude: ['package.json', 'src' , 'node_modules']

@@ -4,28 +4,28 @@
 
 ## Getting Started
 
-https://github.com/apache/systemml/pull/500
-https://github.com/apache/systemml/pull/501
-https://github.com/apache/systemml/pull/502
-https://github.com/apache/systemml/pull/516
-https://github.com/apache/systemml/pull/560
+- https://github.com/apache/systemml/pull/500
+- https://github.com/apache/systemml/pull/501
+- https://github.com/apache/systemml/pull/502
+- https://github.com/apache/systemml/pull/516
+- https://github.com/apache/systemml/pull/560
 
 Before GSoC begin I made started working on easy issues. These pull requests were a way for me to get famaliar with the review process and bond with the community effectively.
 
 ## GSoC : Major Pull Requests
 
-https://github.com/apache/systemml/pull/537
-https://github.com/apache/systemml/pull/575
-https://github.com/apache/systemml/pull/604
+- https://github.com/apache/systemml/pull/537
+- https://github.com/apache/systemml/pull/575
+- https://github.com/apache/systemml/pull/604
 
 As stated in the proposal at the end of every phase our work was merged with the master. For phase 1 finished the automation of performance test suit. Phase 2 required us to work on adding HDFS support and extra configuration parameters. Phase 3 was about consolidation and plotting results. We also got access to 3 node cluster from IBM to run our performance tests.
 
 ## Minor Fixes
 
-https://github.com/apache/systemml/pull/615
-https://github.com/apache/systemml/pull/616
-https://github.com/apache/systemml/pull/624
-https://github.com/apache/systemml/pull/563
+- https://github.com/apache/systemml/pull/615
+- https://github.com/apache/systemml/pull/616
+- https://github.com/apache/systemml/pull/624
+- https://github.com/apache/systemml/pull/563
 
 These pull requests are minor changes and bug fixes in out performance tests. Along with code we also created a performance test documentation.
 

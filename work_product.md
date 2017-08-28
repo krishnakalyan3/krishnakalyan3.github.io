@@ -29,7 +29,7 @@ As stated in the proposal at the end of every phase our work had to be merged wi
 
 These pull requests are minor changes and bug fixes in out performance tests. Along with code we also created a performance test documentation.
 
-Birds Eye View of the Work Done:
+Work Done:
 
 #### Phase 1:
 
@@ -58,22 +58,17 @@ following algorithms included in the performance test suit
 - [x] Add HDFS support
 - [x] Google Docs support for consolidation and comparison of our results
 - [x] Extra arguments configuration Test
-
- -- Test parameters
- -- Backend parameters
- -- SystemML parameters
-- [x] Windows Test
+  - Test parameters
+  - Backend parameters
+  - SystemML parameters
 - [x] Documentation Update
-- [x] systemml standalone comments
-- [x] systemml spark submit comments
 
 #### Phase 3:
 - [x] Offline CSV support
 - [x] Plots comparing algorithm performance across different releases
 - [x] End to End Performance Test
-
--- Local System
--- `3` node Hadoop Cluster
+ - Local System
+ - `3` Node Hadoop Cluster
 
 
 Highlights:
@@ -81,6 +76,6 @@ Highlights:
 - I had an oppurtunity to present my work to all committers.
 
 Challenges:
-- Initially beginning it was quite difficult to come up with a good general architecture for the performance test suit. This was because I did not understand all the parameters completely and some data generation scripts / algorithms did not have 1 to 1 mapping. This required me to rewrite code couple of times.
+- Initially beginning it was quite difficult to come up with a good general architecture for the performance test suit. This was because I did not understand all the parameters completely, some data generation scripts / algorithms did not have 1 to 1 mapping. This required me to rewrite code couple of times.
 - For phase 2, I spent a lot of time on adding HDFS support. After my discussion with my mentor we came up with an easy solution which required me to add an extra parameter --config-dir.
 - At the end of phase 2, we got access to 3 node cluster to run our performance test suit. The setup and configuration of the cluster had a learning curve.

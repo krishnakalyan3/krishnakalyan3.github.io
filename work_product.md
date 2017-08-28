@@ -57,9 +57,8 @@ following algorithms included in the performance test suit
 - [x] Refractor perf test suit to accept args like debug, stats, config etc...
 - [x] Add HDFS support
 - [x] Google Docs support for consolidation and comparison of our results
-- [x] Compare SystemML with previous versions
-- [x] Pylint, Comment
 - [x] Extra arguments configuration Test
+
  -- Test parameters
  -- Backend parameters
  -- SystemML parameters
@@ -72,6 +71,7 @@ following algorithms included in the performance test suit
 - [x] Offline CSV support
 - [x] Plots comparing algorithm performance across different releases
 - [x] End to End Performance Test
+
 -- Local System
 -- `3` node Hadoop Cluster
 

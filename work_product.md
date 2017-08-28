@@ -29,22 +29,58 @@ As stated in the proposal at the end of every phase our work had to be merged wi
 
 These pull requests are minor changes and bug fixes in out performance tests. Along with code we also created a performance test documentation.
 
-Work Done:
-- Automation of performance test suit
-- Integration of parameters
-	- Test parameters
-	- Backend parameters
-	- SystemML parameters
-- Google docs / offline support for consolidation and comparison of our results
+Birds Eye View of the Work Done:
 
-Pending Items:
-- All the tasks as mentioned in the proposal are complete.
+#### Phase 1:
+
+- [x] Generate Data
+- [x] Test all algorithms with `singlenode` 
+- [x] Test all algorithms `spark-hybrid` execution mode  
+- [x] Capture Time Taken
+- [x] Generate a full set of plain text reports
+- [x] Test automatic benchmark end to end
+
+following algorithms included in the performance test suit
+
+- [x] Clustering 
+- [x] Binomial
+- [x] Multinomial
+- [x] Regression1
+- [x] Regression2
+- [x] Stats1
+- [x] Stats2
+
+#### Phase 2:
+
+- [x] Decouple systemml-spark-submit.py
+- [x] Decouple systemml-standalone.py
+- [x] Refractor perf test suit to accept args like debug, stats, config etc...
+- [x] Add HDFS support
+- [x] Google Docs support for consolidation and comparison of our results
+- [x] Compare SystemML with previous versions
+- [x] Pylint, Comment
+- [x] Extra arguments configuration Test
+ -- Test parameters
+ -- Backend parameters
+ -- SystemML parameters
+- [x] Windows Test
+- [x] Documentation Update
+- [x] systemml standalone comments
+- [x] systemml spark submit comments
+
+#### Phase 3:
+- [x] Offline CSV support
+- [x] Plots comparing algorithm performance across different releases
+- [x] End to End Performance Test
+-- Local System
+-- `3` node Hadoop Cluster
+
 
 Highlights:
 - During the community bonding period, I had worked on a pull request (systemml-spark-submit.py) which gave me the confidence and knowledge to complete phase 1 tasks.
 - I had an oppurtunity to present my work to all committers.
 
 Challenges:
-- Initially beginning it was quite difficult to come up with a good general architecture for the performance test suit. This was because I did not understand all the parameters completely and some data generation scripts / algorithms also did not have 1 to 1 mapping. This required me to rewrite code couple of times.
+- Initially beginning it was quite difficult to come up with a good general architecture for the performance test suit. This was because I did not understand all the parameters completely and some data generation scripts / algorithms did not have 1 to 1 mapping. This required me to rewrite code couple of times.
 - For phase 2, I spent a lot of time on adding HDFS support. After my discussion with my mentor we came up with an easy solution which required me to add an extra parameter --config-dir.
 - At the end of phase 2, we got access to 3 node cluster to run our performance test suit. The setup and configuration of the cluster had a learning curve.

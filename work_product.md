@@ -78,4 +78,4 @@ Highlights:
 Challenges:
 - Initially beginning it was quite difficult to come up with a good general architecture for the performance test suit. This was because I did not understand all the parameters completely, some data generation scripts / algorithms did not have 1 to 1 mapping. This required me to rewrite code couple of times.
 - For phase 2, I spent a lot of time on adding HDFS support. After my discussion with my mentor we came up with an easy solution which required me to add an extra parameter --config-dir.
-- At the end of phase 2, we got access to 3 node cluster to run our performance test suit. The setup and configuration of the cluster had a learning curve.
+- At the end of phase 2, we got access to a 3 node cluster to run our performance test suit. The setup and configuration of the cluster had earning curve.

@@ -8,22 +8,24 @@ SNo.| MOOC | University | Status
 6 | Analytics Edge | MIT | [Completed](https://courses.edx.org/certificates/659c8dfe1e644063b4f288aa4f4a3f00)
 8 | Game Theory | The University of Tokyo | [Completed](https://www.coursera.org/account/accomplishments/certificate/423XY9HJ535S)
 9 | Graph Analytics for Big Data | University of California | [Completed](https://www.coursera.org/account/accomplishments/verify/SZ7GY3D65MZ3)
-5 | Data Mining with Weka | University of Waikato | Completed
+5 | Data Mining with Weka | University of Waikato | [Completed](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/weka.pdf)
 6 | Neural Networks for Machine Learning Neural | UofT | Inprogress
 
-# Edx
-
-SNo.| Certification | University | Status 
---- | ---  | --- | ---
-1 | Cloudera Certified Specialist in Apache HBase | Cloudera | Completed
-2 | Certified Apache Hadoop Developer | Hortonworks | Completed
 
 # Specializations
+
 SNo.| MOOC | University | Status 
 --- | ---  | --- | ---
-1 | [Data Sciene and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark) | UCBerkely | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
+1 | Data Sciene and Engineering with Spark | UCBerkely | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
 2 | Deep Learning | deeplearning.ai | InProgress
 3 | Mastering Software Development in R | JHU | Inprogress
 4 | Machine Learning | UofW | Inprogress
 5 | Data Structures and Algorithms | University of California | Inprogress
-6 | 
+
+# Others
+
+SNo.| Certification | University | Status 
+--- | ---  | --- | ---
+3 | GSoC | [Google] 
+1 | Cloudera Certified Specialist in Apache HBase | [Cloudera](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Cloudera%20HBase.pdf)
+2 | Certified Apache Hadoop Developer | [Hortonworks](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Hortonworks%20Hadoop.jpg) 

@@ -10,7 +10,7 @@ SNo.| MOOC | University | Status
 9 | Graph Analytics for Big Data | University of California | [Completed](https://www.coursera.org/account/accomplishments/verify/SZ7GY3D65MZ3)
 5 | Data Mining with Weka | University of Waikato | [Completed](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/weka.pdf)
 6 | Neural Networks for Machine Learning Neural | UofT | Inprogress
-
+7 | How to win coding competitions | ITMOx | Inprogress
 
 # Specializations
 
@@ -26,6 +26,6 @@ SNo.| MOOC | University | Status
 
 SNo.| Certification | University | Status 
 --- | ---  | --- | ---
-3 | GSoC | [Google] 
+3 | GSoC | [Google](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Certificate%20of%20Completion%20for%20Sai%20Krishna%20Kalyan.pdf)
 1 | Cloudera Certified Specialist in Apache HBase | [Cloudera](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Cloudera%20HBase.pdf)
 2 | Certified Apache Hadoop Developer | [Hortonworks](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Hortonworks%20Hadoop.jpg) 

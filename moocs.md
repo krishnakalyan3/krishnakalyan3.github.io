@@ -18,17 +18,9 @@ SNo.| MOOC | University | Status
 --- | ---  | --- | ---
 1 | Data Sciene and Engineering with Spark | UCBerkely | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
 2 | Deep Learning | deeplearning.ai | InProgress
-3 | Mastering Software Development in R | JHU | Inprogress
 4 | Machine Learning | UofW | Inprogress
 5 | Data Structures and Algorithms | University of California | Inprogress
 
-
-# Datacamp
-
-SNo.| Name | 
---- | ---  |
-1 | [Object-Oriented Programming in R: S3 and R6](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/01_R.pdf)
-2 | 
 
 # Others
 
@@ -37,3 +29,7 @@ SNo.| Certification | University
 3 | GSoC | [Google](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Certificate%20of%20Completion%20for%20Sai%20Krishna%20Kalyan.pdf)
 1 | Cloudera Certified Specialist in Apache HBase | [Cloudera](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Cloudera%20HBase.pdf)
 2 | Certified Apache Hadoop Developer | [Hortonworks](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Hortonworks%20Hadoop.jpg) 
+
+# Masters
+
+

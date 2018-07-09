@@ -9,15 +9,13 @@ SNo.| MOOC | University | Status
 8 | Game Theory | The University of Tokyo | [Completed](https://www.coursera.org/account/accomplishments/certificate/423XY9HJ535S)
 9 | Graph Analytics for Big Data | University of California | [Completed](https://www.coursera.org/account/accomplishments/verify/SZ7GY3D65MZ3)
 5 | Data Mining with Weka | University of Waikato | [Completed](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/weka.pdf)
-6 | Neural Networks for Machine Learning Neural | UofT | Inprogress
-7 | How to win coding competitions | ITMOx | Inprogress
+
 
 # Specializations
 
 SNo.| MOOC | University | Status 
 --- | ---  | --- | ---
 1 | Data Sciene and Engineering with Spark | UCBerkely | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
-2 | Deep Learning | deeplearning.ai | InProgress
 4 | Machine Learning | UofW | Inprogress
 5 | Data Structures and Algorithms | University of California | Inprogress
 
@@ -25,11 +23,17 @@ SNo.| MOOC | University | Status
 # Others
 
 SNo.| Certification | University  
---- | ---  | --- | ---
+--- | ---  | --- 
 3 | GSoC | [Google](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Certificate%20of%20Completion%20for%20Sai%20Krishna%20Kalyan.pdf)
 1 | Cloudera Certified Specialist in Apache HBase | [Cloudera](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Cloudera%20HBase.pdf)
 2 | Certified Apache Hadoop Developer | [Hortonworks](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Hortonworks%20Hadoop.jpg) 
 
 # Masters
 
+# TODO
 
+SNo.| MOOC | University | Status 
+--- | ---  | --- | ---
+1 | Neural Networks for Machine Learning Neural | UofT | Inprogress
+2 | How to win coding competitions | ITMOx | Inprogress
+3 | Deep Learning | deeplearning.ai | InProgress

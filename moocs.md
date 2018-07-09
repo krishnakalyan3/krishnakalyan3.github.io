@@ -24,11 +24,10 @@ SNo.| MOOC | University | Status
 
 SNo.| Certification | University  
 --- | ---  | --- 
-3 | GSoC | [Google](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Certificate%20of%20Completion%20for%20Sai%20Krishna%20Kalyan.pdf)
-1 | Cloudera Certified Specialist in Apache HBase | [Cloudera](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Cloudera%20HBase.pdf)
-2 | Certified Apache Hadoop Developer | [Hortonworks](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Hortonworks%20Hadoop.jpg) 
-
-# Masters
+1 | GSoC | [Google](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Certificate%20of%20Completion%20for%20Sai%20Krishna%20Kalyan.pdf)
+2 | Cloudera Certified Specialist in Apache HBase | [Cloudera](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Cloudera%20HBase.pdf)
+3 | Certified Apache Hadoop Developer | [Hortonworks](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Hortonworks%20Hadoop.jpg) 
+4 | Masters In Data Mining | [University Of Lyon](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/degree.jpeg)
 
 # TODO
 

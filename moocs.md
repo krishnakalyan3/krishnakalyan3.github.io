@@ -5,10 +5,10 @@ SNo.| MOOC | University | Status
 1 | Machine Learning | Stanford | [Completed](https://www.coursera.org/account/accomplishments/records/BD4X2HUWKWJN)
 2 | Statistical Learning | Stanford | [Completed](https://verify.lagunita.stanford.edu/SOA/a11d80627d6c4bdb9aa0d719482b004d/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BzFpAVE7STVCV7OXC350UNA%3D%3D)
 3 | SOC120x | NotreDame | [Completed](https://verify.edx.org/cert/a60cdafbee274024bd19b3cfdbd443b7)
-6 | Analytics Edge | MIT | [Completed](https://courses.edx.org/certificates/659c8dfe1e644063b4f288aa4f4a3f00)
-8 | Game Theory | The University of Tokyo | [Completed](https://www.coursera.org/account/accomplishments/certificate/423XY9HJ535S)
-9 | Graph Analytics for Big Data | University of California | [Completed](https://www.coursera.org/account/accomplishments/verify/SZ7GY3D65MZ3)
-5 | Data Mining with Weka | University of Waikato | [Completed](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/weka.pdf)
+4 | Analytics Edge | MIT | [Completed](https://courses.edx.org/certificates/659c8dfe1e644063b4f288aa4f4a3f00)
+5 | Game Theory | The University of Tokyo | [Completed](https://www.coursera.org/account/accomplishments/certificate/423XY9HJ535S)
+6 | Graph Analytics for Big Data | University of California | [Completed](https://www.coursera.org/account/accomplishments/verify/SZ7GY3D65MZ3)
+7 | Data Mining with Weka | University of Waikato | [Completed](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/weka.pdf)
 
 
 # Specializations
@@ -16,13 +16,10 @@ SNo.| MOOC | University | Status
 SNo.| MOOC | University | Status 
 --- | ---  | --- | ---
 1 | Data Sciene and Engineering with Spark | UCBerkely | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
-4 | Machine Learning | UofW | Inprogress
-5 | Data Structures and Algorithms | University of California | Inprogress
-
 
 # Others
 
-SNo.| Certification | University  
+SNo.| Certification | Authority  
 --- | ---  | --- 
 1 | GSoC | [Google](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Certificate%20of%20Completion%20for%20Sai%20Krishna%20Kalyan.pdf)
 2 | Cloudera Certified Specialist in Apache HBase | [Cloudera](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Cloudera%20HBase.pdf)
@@ -36,3 +33,56 @@ SNo.| MOOC | University | Status
 1 | Neural Networks for Machine Learning Neural | UofT | Inprogress
 2 | How to win coding competitions | ITMOx | Inprogress
 3 | Deep Learning | deeplearning.ai | InProgress
+4 | Machine Learning | UofW | Inprogress
+5 | Data Structures and Algorithms | University of California | Inprogress
+6 | Algo Specialization
+8 | Gilbert Strang | Inprogress
+9 | Statistics and probability by Khan academy | Inprogress
+10 | STATS 110 (Joe Blitzstein) | Inprogress
+11 | CS 109 | Inprogress
+12 | CS231n | Inprogress
+13 | CS224n | Inprogress
+14 | Fast AI 1 | Inprogress
+15 | Fast AI 2 | Inprogress
+16 | Fast AI ML | Inprogress
+17 | Fast AI Linear Algebra | Inprogress
+18 | Linear Algebra by three blue one brown | Done
+19 | Edx: Learning from Data
+20 | Edx: Probability 1
+21 | Edx: Probability 2
+22 | Edx: Intro to DS
+23 | DS Algo Specialization
+24 | Advanced ML Specialization
+25 | Tensoflow Specialization
+26 | Kadizine Tensorflow
+27 | Weka 2
+
+# Reading
+SNo.| Blog | Status 
+--- | ---  | --- 
+1 | AirBnB | 
+2 | Netflix | 
+4 | Uber | 
+3 | https://medium.com/data-science-group-iitr | Inprogress
+
+
+# Youtube
+SNo.| Videos | Status 
+--- | ---  | --- 
+1 | Data4Bio
+2 | Gaurav Sen
+
+# Book
+SNo.| Book | Status 
+--- | ---  | --- 
+1 | Deep Learning Book | 
+2 | ISL | Inprogress
+3 | ML | 
+4 | [Forcasting](https://otexts.org/fpp2/) | 
+
+
+# Slides
+- EPFL
+- UPC DS/ALGO
+
+

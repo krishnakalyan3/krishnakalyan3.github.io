@@ -13,7 +13,7 @@ SNo.| MOOC | University | Status
 
 # Specializations
 
-SNo.| MOOC | University | Status 
+SNo.| MOOC | University
 --- | ---  | --- | ---
 1 | Data Sciene and Engineering with Spark | UCBerkely | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
 
@@ -85,4 +85,7 @@ SNo.| Book | Status
 - EPFL
 - UPC DS/ALGO
 
-
+# Udacity
+SNo.| Course | Status
+--- | ---  | ---
+1 | A/B Testing |

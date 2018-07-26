@@ -15,7 +15,7 @@ SNo.| MOOC | University | Status
 
 SNo.| MOOC | University
 --- | ---  | --- | ---
-1 | Data Sciene and Engineering with Spark | UCBerkely | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
+1 | Data Sciene and Engineering with Spark | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
 
 # Others
 
@@ -62,9 +62,9 @@ SNo.| Blog | Status
 --- | ---  | --- 
 1 | AirBnB | 
 2 | Netflix | 
-4 | Uber | 
-3 | https://medium.com/data-science-group-iitr | Inprogress
-
+3 | Uber | 
+4 | https://medium.com/data-science-group-iitr | Inprogress
+5 | https://landing.google.com/sre/resources.html
 
 # Youtube
 SNo.| Videos | Status 

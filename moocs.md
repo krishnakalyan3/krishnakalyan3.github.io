@@ -56,6 +56,7 @@ SNo.| MOOC | University | Status
 25 | Tensoflow Specialization
 26 | Kadizine Tensorflow
 27 | Weka 2
+28 | http://ml4a.github.io/ml4a/
 
 # Reading
 SNo.| Blog | Status 

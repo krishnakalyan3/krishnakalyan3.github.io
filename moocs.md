@@ -64,7 +64,8 @@ SNo.| Blog | Status
 2 | Netflix | 
 4 | Uber | 
 3 | https://medium.com/data-science-group-iitr | Inprogress
-
+4 | OkCupid
+5 | http://varianceexplained.org/
 
 # Youtube
 SNo.| Videos | Status 
@@ -84,8 +85,10 @@ SNo.| Book | Status
 # Slides
 - EPFL
 - UPC DS/ALGO
+- khan academy 
 
 # Udacity
 SNo.| Course | Status
 --- | ---  | ---
 1 | A/B Testing |
+2 | A/B Testing | https://exp-platform.com/2017abtestingtutorial/

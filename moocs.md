@@ -10,12 +10,11 @@ SNo.| MOOC | University | Status
 6 | Graph Analytics for Big Data | University of California | [Completed](https://www.coursera.org/account/accomplishments/verify/SZ7GY3D65MZ3)
 7 | Data Mining with Weka | University of Waikato | [Completed](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/weka.pdf)
 
-
 # Specializations
 
 SNo.| MOOC | University
---- | ---  | --- | ---
-1 | Data Sciene and Engineering with Spark | UCBerkely | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
+--- | ---  | --- 
+1 | Data Sciene and Engineering with Spark | [Completed](https://credentials.edx.org/credentials/ca26c9d54f3041fe9c70cee126e340b4/)
 
 # Others
 
@@ -25,6 +24,23 @@ SNo.| Certification | Authority
 2 | Cloudera Certified Specialist in Apache HBase | [Cloudera](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Cloudera%20HBase.pdf)
 3 | Certified Apache Hadoop Developer | [Hortonworks](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/Hortonworks%20Hadoop.jpg) 
 4 | Masters In Data Mining | [University Of Lyon](https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/certificates/degree.jpeg)
+
+
+# AWS
+
+SNo.| Item | Status 
+--- | ---  | --- 
+1 | AWS Developer Day | Done
+2 | Re Invent |
+3 | Quicklabs |
+4 | Questions Udemy |
+5 | Answers Udemy |
+6 | Github Notes |
+7 | [Blog](http://jayendrapatil.com/about/) |
+8 | Edx AWS 1 | Done
+9 | Edx AWS 2 |
+10 | Edx AWS 3 |
+
 
 # TODO
 
@@ -51,27 +67,47 @@ SNo.| MOOC | University | Status
 20 | Edx: Probability 1
 21 | Edx: Probability 2
 22 | Edx: Intro to DS
-23 | DS Algo Specialization
 24 | Advanced ML Specialization
 25 | Tensoflow Specialization
 26 | Kadizine Tensorflow
 27 | Weka 2
+28 | http://ml4a.github.io/ml4a/
 
 # Reading
 SNo.| Blog | Status 
 --- | ---  | --- 
 1 | AirBnB | 
 2 | Netflix | 
+<<<<<<< HEAD
 4 | Uber | 
 3 | https://medium.com/data-science-group-iitr | Inprogress
 4 | OkCupid
 5 | http://varianceexplained.org/
+=======
+3 | Uber | 
+4 | https://medium.com/data-science-group-iitr | Inprogress
+5 | https://landing.google.com/sre/resources.html
+>>>>>>> baa54ed101c3d820b279219a246f4bda214b564f
 
 # Youtube
 SNo.| Videos | Status 
 --- | ---  | --- 
 1 | Data4Bio
-2 | Gaurav Sen
+
+
+# Algorithms
+SNo.| Videos | Status 
+--- | ---  | --- 
+1 | Gaurav Sen
+2 | [LeetCode Python](https://www.youtube.com/playlist?list=PL6AvMp7YYQRxyltgP9mucWXYxcn1e2mx3)
+3 | DS Algo Specialization
+4 | Stanford Algo 1
+5 | Stanford Algo 2
+6 | Interview Bit
+7 | Udemy Python
+8 | Udacity Algo 1
+9 | Udacity Algo 2
+10 | Algo Youtube
 
 # Book
 SNo.| Book | Status 
